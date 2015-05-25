@@ -3,7 +3,7 @@
 #include <sys/stat.h>
 #include <sys/times.h>
 #include <sys/unistd.h>
-#include "stm32f4xx_hal_conf.h"
+#include "stm32f4xx_hal.h"
 #include "core_cm4.h"
 #include "core_cmFunc.h"
 
